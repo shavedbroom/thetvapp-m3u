@@ -14,3 +14,10 @@ There is a limit of **5 playlist requests per hour**.
 ### EPG URL:
 ``https://thetvapp-m3u.data-search.workers.dev/epg``
 
+![channels](https://github.com/user-attachments/assets/aa36eb73-d2b4-405b-8e74-9fe2fdd52868)
+
+
+## Disclaimer:
+
+This repository has no control over the streams, links, or the legality of the content provided by thetvapp.to. It is the end user's responsibility to ensure the legal use of these streams, and we strongly recommend verifying that the content complies with the laws and regulations of your country before use.
+
