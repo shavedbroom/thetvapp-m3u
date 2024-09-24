@@ -12,7 +12,7 @@ There is a limit of **5 playlist requests per hour**.
 ``https://thetvapp-m3u.data-search.workers.dev/playlist``
 
 ### EPG URL:
-``https://thetvapp-m3u.data-search.workers.dev/epg``
+``https://tinyurl.com/tta-epg``
 
 ![channels](https://github.com/user-attachments/assets/aa36eb73-d2b4-405b-8e74-9fe2fdd52868)
 
