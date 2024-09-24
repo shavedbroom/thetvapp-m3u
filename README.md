@@ -9,7 +9,7 @@ Add a playlist of live TV channels to your IPTV application. This playlist is ex
 There is a limit of **5 playlist requests per hour**.
 
 ### Playlist URL:
-``https://thetvapp-m3u.data-search.workers.dev/playlist``
+``https://tinyurl.com/tta-m3u``
 
 ### EPG URL:
 ``https://tinyurl.com/tta-epg``
