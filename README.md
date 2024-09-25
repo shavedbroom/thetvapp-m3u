@@ -12,10 +12,10 @@ Since the playlist is dynamically generated, it’s recommended to set your appl
 There is a limit of **5 playlist requests per hour**.
 
 ### Playlist URL:
-``Not working, but will be back soon...``
+``https://tinyurl.com/tta-m3u``
 
 ### EPG URL:
-``Not working, but will be back soon..``
+``https://tinyurl.com/tta-epg``
 
 ![channels](https://github.com/user-attachments/assets/aa36eb73-d2b4-405b-8e74-9fe2fdd52868)
 
