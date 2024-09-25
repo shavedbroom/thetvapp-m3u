@@ -1,3 +1,4 @@
+
 # TheTVApp M3U Playlist
 
 Add a playlist of live TV channels to your IPTV application. This playlist is exclusively focused on live TV content. For access to sports channels, please visit my other repository.
@@ -11,10 +12,10 @@ Since the playlist is dynamically generated, it’s recommended to set your appl
 There is a limit of **5 playlist requests per hour**.
 
 ### Playlist URL:
-``Not working...``
+``Not working, but will be back soon...``
 
 ### EPG URL:
-``Not working...``
+``Not working, but will be back soon..``
 
 ![channels](https://github.com/user-attachments/assets/aa36eb73-d2b4-405b-8e74-9fe2fdd52868)
 
