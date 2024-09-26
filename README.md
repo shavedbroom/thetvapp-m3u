@@ -7,7 +7,7 @@ Since the playlist is dynamically generated, we recommend setting your applicati
 
 ## Rate Limit Information
 
-There is a limit of **5 playlist requests in 3 hours**.
+There is a limit of **5 playlist requests in 2 hours**.
 
 ### Playlist URL:
 ``https://tinyurl.com/tta-m3u``
