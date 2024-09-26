@@ -3,8 +3,6 @@
 
 Since the playlist is dynamically generated, we recommend setting your application to reimport the playlist every 8 hours to ensure it remains up-to-date. If you encounter a 403 error, it indicates that your playlist has expired and needs to be refreshed. Both the playlist and EPG data are updated twice daily, so it's best to sync your playlist and guide information at the same time within your IPTV application. If you see "No information" displayed in the sports section of the guide, manually refreshing the EPG should resolve the issue and load the latest data.
 
-**Note:** I am adding this here to test my script in real-world scenarios, but please be aware that the code and the method of loading the playlist may change over time.
-
 ## Rate Limit Information
 
 There is a limit of **5 playlist requests in 2 hours**.
