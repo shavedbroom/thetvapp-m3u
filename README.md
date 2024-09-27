@@ -15,12 +15,6 @@ Since the playlist is dynamically generated, we recommend setting your applicati
 
 The rate limit applies per IP address. This means that from a single location, you can request the playlist up to 5 times within 2 hours. After reaching the limit, additional requests will be blocked for the following 2 hours. However, you can easily set up 5 or more devices from your location with a refresh interval of 8 hours, and still remain comfortably within the rate limit.
 
-### Playlist URL:
-``https://tinyurl.com/tta-m3u``
-
-### EPG URL:
-``https://tinyurl.com/tta-epg``
-
 ![channels](https://github.com/user-attachments/assets/aa36eb73-d2b4-405b-8e74-9fe2fdd52868)
 
 
