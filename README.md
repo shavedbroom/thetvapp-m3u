@@ -1,6 +1,6 @@
 ## What is TheTVApp?
 
-TheTVApp is a platform that offers free live TV and sports streaming across a wide range of categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
+TheTVApp is a platform that offers free live TV and sports streaming across selected categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
 
 For added flexibility, this repository provides an M3U playlist featuring TheTVApp's channels. With this, you can load the streams into any IPTV application that supports M3U-formatted playlists, giving you more options for how you enjoy the content.
 
