@@ -1,7 +1,14 @@
+## What is TheTVApp?
 
-# TheTVApp M3U Playlist
+TheTVApp is a platform that offers free live TV and sports streaming across a wide range of categories. Users can stream and watch live TV directly through their browser without the need for an account or subscription.
 
-Since the playlist is dynamically generated, we recommend setting your application to reimport the playlist every 8 hours to ensure it remains up-to-date. If you encounter a 403 error, it indicates that your playlist has expired and needs to be refreshed. Both the playlist and EPG data are updated twice daily, so it's best to sync your playlist and guide information at the same time within your IPTV application. If you see "No information" displayed in the sports section of the guide, manually refreshing the EPG should resolve the issue and load the latest data.
+For added flexibility, this repository provides an M3U playlist featuring TheTVApp's channels. With this, you can load the streams into any IPTV application that supports M3U-formatted playlists, giving you more options for how you enjoy the content.
+
+You can view the full list of channels provided by TheTVApp [here](http://href.li/https://thetvapp.to/).
+
+## How to Use the M3U Playlist
+
+To use M3U playlist in your IPTV application, look for the option to import an M3U playlist within the app's settings. Once you find the import option, simply copy and paste the Playlist URL and EPG URL listed below into the respective fields.
 
 ### Playlist URL:
 ``https://tinyurl.com/tta-m3u``
@@ -9,13 +16,15 @@ Since the playlist is dynamically generated, we recommend setting your applicati
 ### EPG URL:
 ``https://tinyurl.com/tta-epg``
 
+## Playlist & EPG Refresh
+
+Since the playlist is dynamically generated, we recommend setting your application to reimport the playlist every 8 hours to ensure it remains up-to-date. If you encounter a 403 error, it indicates that your playlist has expired and needs to be refreshed. Both the playlist and EPG data are updated twice daily, so it's best to sync your playlist and guide information at the same time within your IPTV application. If you see "No information" displayed in the sports section of the guide, manually refreshing the EPG should resolve the issue and load the latest data.
+
 ## Rate Limit Information
 
 **Note**: There is a limit of 5 playlist requests per IP address within a 2-hour window.
 
 The rate limit applies per IP address. This means that from a single location, you can request the playlist up to 5 times within 2 hours. After reaching the limit, additional requests will be blocked for the following 2 hours. However, you can easily set up 5 or more devices from your location with a refresh interval of 8 hours, and still remain comfortably within the rate limit.
-
-![channels](https://github.com/user-attachments/assets/aa36eb73-d2b4-405b-8e74-9fe2fdd52868)
 
 
 ## Disclaimer:
